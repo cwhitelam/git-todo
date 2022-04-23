@@ -1,5 +1,5 @@
 # learning git in vscode
 
--second commit
+- second commit
 
 - another line 
